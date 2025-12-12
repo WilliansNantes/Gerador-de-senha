@@ -10,7 +10,7 @@ let charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#
 let novaSenha = "";
 
 //parte para automatizar a visualização do valor dos caracteres
-sizePassword.innerHTML = sliderElement.ariaValue;
+sizePassword.innerHTML = sliderElement.value;
 
 slider.oninput = function(){
     sizePassword.innerHTML = this.value;
