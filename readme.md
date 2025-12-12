@@ -1,7 +1,7 @@
 # 🔐 Gerador de Senhas
 
 Este projeto é um **Gerador de Senhas** simples e funcional,
-desenvolvido com **HTML, CSS e JavaScript**, permitindo que o usuário
+desenvolvido por Willians Nantes com **HTML, CSS e JavaScript**, permitindo que o usuário
 escolha o tamanho da senha e copie o resultado com um clique.
 
 ------------------------------------------------------------------------
@@ -10,11 +10,11 @@ escolha o tamanho da senha e copie o resultado com um clique.
 
 ### Tela Inicial
 
-![Gerador de Senhas - Tela Inicial](gerador_1.jpg)
+![Gerador de Senhas - Tela Inicial](./imagem/gerador_1.jpg)
 
 ### Tela com Senha Gerada
 
-![Gerador de Senhas - Senha Gerada](gerador_2.jpg)
+![Gerador de Senhas - Senha Gerada](./imagem/gerador_2.jpg)
 
 ------------------------------------------------------------------------
 
